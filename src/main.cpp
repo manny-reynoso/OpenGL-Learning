@@ -1,5 +1,5 @@
+#include </home/manny/code/OpenGL-Learning/external/glad/include/glad/gl.h>
 #include <GLFW/glfw3.h>
-#include <glad/gl.h>
 
 #include <iostream>
 
